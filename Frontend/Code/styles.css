@@ -31,5 +31,21 @@ body{
 .right-main{
     background-color: #f7eceb;
     height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    border: 2px solid black;
+    height: fit-content;
+    padding: 0;
+    margin: 0;
+}
+
+.form h1{
+    font-size: 2.5rem;
+}
