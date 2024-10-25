@@ -8,8 +8,11 @@
 
 body{
     background-color: #826afb;
-    display: grid;
-    grid-template-columns: 1.25fr 3.75fr;
+    /* display: grid; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* grid-template-columns: 1.25fr 3.75fr; */
     height: 100vh;
     padding: 0;
     margin: 0;
@@ -59,16 +62,27 @@ body{
     margin: 25px;
 }
 
+.img-container{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.form img{
+    width: 50%;
+}
+
 .form h1{
     text-align: center;
     font-size: 1.75rem;
     padding: 0;
-    margin-top: 0;
-    margin-bottom: 30px;
+    margin: 0;
     font-weight: 500;
 }
 
 .form p{
+    margin: 5px 0;
     text-align: center;
     font-size: 1rem;
     font-family: "Poppins", sans-serif;
