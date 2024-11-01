@@ -168,6 +168,7 @@ body{
     }
     .form{
         margin: 25px;
+        min-width: 80%;
     }
 }
 
