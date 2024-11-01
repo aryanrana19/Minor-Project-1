@@ -1,124 +1,114 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>University Feedback Analysis</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
 
-    <!-- <section class="left-main">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU_P4dmMpB8PJKyVCL6a16Ue9qp6k3sgpqWQ&s" alt="UPES Logo">
-        <h2>Shape The University of Tomorrow — Your Feedback Builds Our Future!</h2>
-        <img src="https://international.upes.ac.in/media/gqbloh1h/about-upes.jpg" alt="UPES Campus">
-    </section> -->
+    <form class="form" id="form"
+        action="https://script.google.com/macros/s/AKfycbyuMwnnUSJ2fdHYR105_k3UG13FPM_NbBQRRh33VwBv-xQkxXGv2_rkj2t_XYvVAZe3zQ/exec"
+        method="post">
+        <div class="img-container">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU_P4dmMpB8PJKyVCL6a16Ue9qp6k3sgpqWQ&s"
+                alt="UPES Logo">
+        </div>
+        <h1 class="form-heading">University Feedback Form</h1>
+        <p>Your Thoughts, No Names - Make a Difference <span>Anonymously!</span></p>
+        <hr>
 
-    <!-- <section class="right-main"> -->
-
-        <form class="form" id="form" action="">
-            <div class="img-container">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU_P4dmMpB8PJKyVCL6a16Ue9qp6k3sgpqWQ&s" alt="UPES Logo">
-            </div>
-            <h1 class="form-heading">University  Feedback Form</h1>
-            <p>Your Thoughts, No Names - Make a Difference <span>Anonymously!</span></p>
-            <hr>
-            
-            <!-- <div class="form-control">
-                <label for="course">Any challenges you've faced?</label>
-                <input type="text" placeholder="Your Answer" required>
-            </div> -->
-
-            <!-- <div class="form-control">
-                <label for="sapId">Field 2</label>
-                <input type="number" placeholder="Enter Field 2" required>
-            </div> -->
-
-            <div class="form-options">
-                <label for="name">General Experience</label>
-                <div class="options-list">
-                    <div class="options">
-                        <input type="radio" id="check-1-gen" name="generalExperience" value="1">
-                        <label for="check1">1</label>
-                    </div>
-                    <div class="options">
-                        <input type="radio" id="check-2-gen" name="generalExperience" value="2">
-                        <label for="check2">2</label>
-                    </div>
-                    <div class="options">
-                        <input type="radio" id="check-3-gen" name="generalExperience">
-                        <label for="check3">3</label>
-                    </div>
-                    <div class="options">
-                        <input type="radio" id="check-4-gen" name="generalExperience">
-                        <label for="check4">4</label>
-                    </div>
-                    <div class="options">
-                        <input type="radio" id="check-5-gen" name="generalExperience">
-                        <label for="check5">5</label>
-                    </div>
+        <div class="form-options">
+            <label for="generalExperience">General Experience</label>
+            <div class="options-list">
+                <div class="options">
+                    <input type="radio" id="check-1-gen" name="generalExperience" value="1">
+                    <label for="check-1-gen">1</label>
+                </div>
+                <div class="options">
+                    <input type="radio" id="check-2-gen" name="generalExperience" value="2">
+                    <label for="check-2-gen">2</label>
+                </div>
+                <div class="options">
+                    <input type="radio" id="check-3-gen" name="generalExperience" value="3">
+                    <label for="check-3-gen">3</label>
+                </div>
+                <div class="options">
+                    <input type="radio" id="check-4-gen" name="generalExperience" value="4">
+                    <label for="check-4-gen">4</label>
+                </div>
+                <div class="options">
+                    <input type="radio" id="check-5-gen" name="generalExperience" value="5">
+                    <label for="check-5-gen">5</label>
                 </div>
             </div>
+        </div>
 
-            <div class="form-options">
-                <label for="name">Feedback on Academics</label>
-                <div class="options-list">
-                    <div class="options">
-                        <input type="radio" id="check-1" name="AcademicScore">
-                        <label for="check1">1</label>
-                    </div>
-                    <div class="options">
-                        <input type="radio" id="check-2" name="AcademicScore">
-                        <label for="check2">2</label>
-                    </div>
-                    <div class="options">
-                        <input type="radio" id="check-3" name="AcademicScore">
-                        <label for="check3">3</label>
-                    </div>
-                    <div class="options">
-                        <input type="radio" id="check-4" name="AcademicScore">
-                        <label for="check4">4</label>
-                    </div>
-                    <div class="options">
-                        <input type="radio" id="check-5" name="AcademicScore">
-                        <label for="check5">5</label>
-                    </div>
+        <div class="form-options">
+            <label for="academicScore">Feedback on Academics</label>
+            <div class="options-list">
+                <div class="options">
+                    <input type="radio" id="check-1-acad" name="academicScore" value="1">
+                    <label for="check-1-acad">1</label>
+                </div>
+                <div class="options">
+                    <input type="radio" id="check-2-acad" name="academicScore" value="2">
+                    <label for="check-2-acad">2</label>
+                </div>
+                <div class="options">
+                    <input type="radio" id="check-3-acad" name="academicScore" value="3">
+                    <label for="check-3-acad">3</label>
+                </div>
+                <div class="options">
+                    <input type="radio" id="check-4-acad" name="academicScore" value="4">
+                    <label for="check-4-acad">4</label>
+                </div>
+                <div class="options">
+                    <input type="radio" id="check-5-acad" name="academicScore" value="5">
+                    <label for="check-5-acad">5</label>
                 </div>
             </div>
+        </div>
 
-            <div class="form-options">
-                <label for="name">Facilities and Environment</label>
-                <div class="options-list">
-                    <div class="options">
-                        <input type="radio" id="check-1" name="FacilityScore">
-                        <label for="check1">1</label>
-                    </div>
-                    <div class="options">
-                        <input type="radio" id="check-2" name="FacilityScore">
-                        <label for="check2">2</label>
-                    </div>
-                    <div class="options">
-                        <input type="radio" id="check-3" name="FacilityScore">
-                        <label for="check3">3</label>
-                    </div>
-                    <div class="options">
-                        <input type="radio" id="check-4" name="FacilityScore">
-                        <label for="check4">4</label>
-                    </div>
-                    <div class="options">
-                        <input type="radio" id="check-5" name="FacilityScore">
-                        <label for="check5">5</label>
-                    </div>
+        <div class="form-options">
+            <label for="facilityScore">Facilities and Environment</label>
+            <div class="options-list">
+                <div class="options">
+                    <input type="radio" id="check-1-fac" name="facilityScore" value="1">
+                    <label for="check-1-fac">1</label>
+                </div>
+                <div class="options">
+                    <input type="radio" id="check-2-fac" name="facilityScore" value="2">
+                    <label for="check-2-fac">2</label>
+                </div>
+                <div class="options">
+                    <input type="radio" id="check-3-fac" name="facilityScore" value="3">
+                    <label for="check-3-fac">3</label>
+                </div>
+                <div class="options">
+                    <input type="radio" id="check-4-fac" name="facilityScore" value="4">
+                    <label for="check-4-fac">4</label>
+                </div>
+                <div class="options">
+                    <input type="radio" id="check-5-fac" name="facilityScore" value="5">
+                    <label for="check-5-fac">5</label>
                 </div>
             </div>
+        </div>
 
-            <div class="form-control">
-                <label for="feedback">Additional Feedbacks</label>
-                <input type="text" placeholder="Any other feedback or thoughts you'd like to share?"  required>
-            </div>
-            <button type="submit" class="submitBtn">Submit</button>
-        </form>
-    <!-- </section> -->
+        <div class="form-control">
+            <label for="feedback">Additional Feedback</label>
+            <input type="text" id="feedback" name="feedback"
+                placeholder="Any other feedback or thoughts you'd like to share?" required>
+        </div>
+
+        <button type="submit" class="submitBtn">Submit</button>
+    </form>
+
     <script src="app.js"></script>
 </body>
+
 </html>
