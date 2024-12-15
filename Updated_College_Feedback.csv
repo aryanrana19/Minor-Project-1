@@ -1,23 +1,273 @@
-Timestamp,Feedback about different aspects of college life,How satisfied are you with the cleanliness and maintenance of the hostel rooms? ,"Are the classrooms well-equipped with adequate seating, lighting, and ventilation?  ",How would you rate the knowledge and teaching methods of the faculty members. ,Are there enough extracurricular activities or events organized to engage students? ,How satisfied are you with the availability and accessibility of library resources? ,"Are the student support services (like counseling, health services, etc.) helpful and accessible? ","How safe do you feel on campus, especially during the evening or night hours? ",How would you rate the quality and variety of food provided in the hostel/mess? 
-2024/09/30 3:01:48 PM GMT+5:30,The college provides an excellent environment for academic growth.,3,Neutral,2,Maybe,2,Maybe,2,Fair
-2024/09/30 3:02:29 PM GMT+5:30,The faculty seems unapproachable and unhelpful at times.,1,Strongly disagree,3,Maybe,4,Maybe,1,Good
-2024/10/06 07:20:52 AM GMT+5:30,"While the faculty is decent, the overall infrastructure could use an upgrade.",4,Neutral,4,No,5,No,1,Very good
-2024/10/06 07:20:52 AM GMT+5:30,"The campus facilities are top-notch, and extracurriculars are abundant.",2,Disagree,2,No,5,Yes,5,Good
-2024/10/06 07:20:52 AM GMT+5:30,"The infrastructure is poor, and basic facilities are lacking.",1,Neutral,3,Yes,4,Yes,3,Fair
-2024/10/06 07:20:52 AM GMT+5:30,"The college is average, with some good and bad aspects.",1,Strongly disagree,4,Maybe,1,Maybe,5,Good
-2024/10/06 07:20:52 AM GMT+5:30,"Hostel facilities are well-maintained, but food quality needs attention.",5,Neutral,5,No,2,Yes,4,Excellent
-2024/10/06 07:20:52 AM GMT+5:30,"Safety on campus is a major concern, especially after dark.",3,Neutral,4,No,1,No,4,Excellent
-2024/10/06 07:20:52 AM GMT+5:30,The college ensures students have access to all necessary resources.,3,Agree,4,Yes,3,Yes,5,Poor
-2024/10/06 07:20:52 AM GMT+5:30,The extracurricular opportunities are excellent.,1,Disagree,2,No,2,No,3,Fair
-2024/10/06 07:20:52 AM GMT+5:30,Library resources are adequate but could use more digital content.,3,Neutral,4,No,2,Yes,4,Very good
-2024/10/06 07:20:52 AM GMT+5:30,The faculty members are highly knowledgeable and supportive.,2,Disagree,2,Maybe,4,No,1,Good
-2024/10/06 07:20:52 AM GMT+5:30,Campus safety is well-maintained with proper security.,5,Strongly agree,5,Yes,2,No,3,Fair
-2024/10/06 07:20:52 AM GMT+5:30,The food quality in the hostel mess is very poor.,4,Strongly disagree,4,Maybe,3,Yes,5,Good
-2024/10/06 07:20:52 AM GMT+5:30,"Extracurricular activities are okay, but nothing exceptional.",4,Neutral,5,No,3,No,5,Poor
-2024/10/06 07:20:52 AM GMT+5:30,The college doesn't provide enough extracurricular opportunities.,2,Agree,1,Yes,4,Yes,1,Poor
-2024/10/06 07:20:52 AM GMT+5:30,More efforts are required to improve student support services.,4,Strongly disagree,2,Maybe,1,Maybe,5,Very good
-2024/10/06 07:20:52 AM GMT+5:30,The college provides a great balance between academics and extracurriculars.,4,Strongly agree,4,No,5,No,2,Very good
-2024/10/06 07:20:52 AM GMT+5:30,Faculty members are very knowledgeable and approachable.,2,Strongly disagree,2,Yes,1,Maybe,5,Good
-2024/10/06 07:20:52 AM GMT+5:30,"The hostel facilities are acceptable, but there’s room for improvement.",5,Strongly agree,5,Yes,5,No,2,Excellent
-2024/10/06 07:20:52 AM GMT+5:30,,4,Disagree,3,Maybe,4,Yes,1,Poor
-2024/10/06 07:20:52 AM GMT+5:30,,1,Strongly disagree,4,No,2,Yes,5,Poor
+Feedback about different aspects of college life,How satisfied are you with the cleanliness and maintenance of the hostel rooms? ,How would you rate the knowledge and teaching methods of the faculty members. ,How satisfied are you with the availability and accessibility of library resources? ,"How safe do you feel on campus, especially during the evening or night hours? "
+The college provides an excellent environment for academic growth.,3,2,2,2
+The faculty seems unapproachable and unhelpful at times.,1,3,4,1
+"While the faculty is decent, the overall infrastructure could use an upgrade.",4,4,5,1
+"The campus facilities are top-notch, and extracurriculars are abundant.",2,2,5,5
+"The infrastructure is poor, and basic facilities are lacking.",1,3,4,3
+"The college is average, with some good and bad aspects.",1,4,1,5
+"Hostel facilities are well-maintained, but food quality needs attention.",5,5,2,4
+"Safety on campus is a major concern, especially after dark.",3,4,1,4
+The college ensures students have access to all necessary resources.,3,4,3,5
+The extracurricular opportunities are excellent.,1,2,2,3
+Library resources are adequate but could use more digital content.,3,4,2,4
+The faculty members are highly knowledgeable and supportive.,2,2,4,1
+Campus safety is well-maintained with proper security.,5,5,2,3
+The food quality in the hostel mess is very poor.,4,4,3,5
+"Extracurricular activities are okay, but nothing exceptional.",4,5,3,5
+The college doesn't provide enough extracurricular opportunities.,2,1,4,1
+More efforts are required to improve student support services.,4,2,1,5
+The college provides a great balance between academics and extracurriculars.,4,4,5,2
+Faculty members are very knowledgeable and approachable.,2,2,1,5
+"The hostel facilities are acceptable, but thereÂ’s room for improvement.",5,5,5,2
+Decent College Facilities,4,3,4,1
+Beautiful Campus,1,4,2,5
+The faculty is very supportive and approachable.,4,4,4,5
+The faculty is very supportive and approachable.,5,3,2,4
+"Campus safety needs to be prioritized, especially at night.",4,2,1,2
+Food quality in the hostel/mess could be improved.,2,3,2,3
+Food quality in the hostel/mess could be improved.,5,1,1,1
+Extracurricular activities are abundant and engaging.,4,3,4,2
+The college provides an excellent environment for learning.,2,1,2,4
+The library resources are very helpful and comprehensive.,2,5,2,2
+Classroom facilities are outdated and need renovation.,4,3,1,5
+The library resources are very helpful and comprehensive.,5,2,3,5
+The library resources are very helpful and comprehensive.,2,3,5,1
+Classroom facilities are outdated and need renovation.,4,3,5,2
+The faculty is very supportive and approachable.,1,5,3,5
+The library resources are very helpful and comprehensive.,2,3,2,5
+"While the infrastructure is good, the management needs improvement.",1,4,2,4
+"While the infrastructure is good, the management needs improvement.",1,5,4,4
+"While the infrastructure is good, the management needs improvement.",2,4,1,4
+The faculty is very supportive and approachable.,1,1,4,1
+"Campus safety needs to be prioritized, especially at night.",1,2,1,4
+Extracurricular activities are abundant and engaging.,5,3,3,2
+Extracurricular activities are abundant and engaging.,5,2,4,5
+The library resources are very helpful and comprehensive.,2,2,3,5
+The faculty is very supportive and approachable.,4,2,5,3
+Extracurricular activities are abundant and engaging.,5,2,3,1
+The college provides an excellent environment for learning.,5,1,2,1
+The library resources are very helpful and comprehensive.,1,5,3,5
+Extracurricular activities are abundant and engaging.,2,3,1,5
+Food quality in the hostel/mess could be improved.,3,1,5,1
+Food quality in the hostel/mess could be improved.,4,5,4,4
+The campus lacks proper cleanliness and maintenance.,2,2,2,2
+The campus lacks proper cleanliness and maintenance.,5,2,2,2
+The library resources are very helpful and comprehensive.,1,5,5,5
+Student support services are responsive and accessible.,1,3,2,3
+The faculty is very supportive and approachable.,5,3,3,2
+The college provides an excellent environment for learning.,2,5,1,3
+Student support services are responsive and accessible.,2,1,3,2
+The library resources are very helpful and comprehensive.,5,1,2,2
+Student support services are responsive and accessible.,5,4,3,4
+The faculty is very supportive and approachable.,1,3,5,5
+The faculty is very supportive and approachable.,5,1,4,5
+The college provides an excellent environment for learning.,4,5,4,2
+The college provides an excellent environment for learning.,3,1,1,1
+Food quality in the hostel/mess could be improved.,1,3,2,3
+The college provides an excellent environment for learning.,3,3,1,2
+Extracurricular activities are abundant and engaging.,3,4,4,4
+The library resources are very helpful and comprehensive.,5,4,3,5
+Student support services are responsive and accessible.,3,1,4,3
+The faculty is very supportive and approachable.,1,3,2,2
+The library resources are very helpful and comprehensive.,5,4,4,5
+The campus lacks proper cleanliness and maintenance.,4,1,2,5
+Classroom facilities are outdated and need renovation.,3,4,4,1
+Food quality in the hostel/mess could be improved.,1,2,1,2
+"While the infrastructure is good, the management needs improvement.",2,3,1,3
+Student support services are responsive and accessible.,2,2,1,4
+The college provides an excellent environment for learning.,2,1,4,4
+Classroom facilities are outdated and need renovation.,5,4,2,5
+"While the infrastructure is good, the management needs improvement.",5,3,2,5
+Classroom facilities are outdated and need renovation.,2,3,1,5
+"Campus safety needs to be prioritized, especially at night.",3,1,4,1
+"While the infrastructure is good, the management needs improvement.",4,4,1,3
+Classroom facilities are outdated and need renovation.,5,2,1,1
+"Campus safety needs to be prioritized, especially at night.",1,3,4,2
+The campus lacks proper cleanliness and maintenance.,3,5,3,2
+"While the infrastructure is good, the management needs improvement.",3,4,5,1
+Student support services are responsive and accessible.,1,3,2,4
+Food quality in the hostel/mess could be improved.,1,4,4,1
+The library resources are very helpful and comprehensive.,3,3,1,2
+Extracurricular activities are abundant and engaging.,1,3,5,1
+The library resources are very helpful and comprehensive.,1,4,1,3
+The faculty is very supportive and approachable.,3,4,3,5
+The college provides an excellent environment for learning.,1,1,3,1
+"While the infrastructure is good, the management needs improvement.",3,4,2,4
+"Campus safety needs to be prioritized, especially at night.",4,2,3,3
+The library resources are very helpful and comprehensive.,2,4,1,2
+The library resources are very helpful and comprehensive.,4,5,4,3
+Student support services are responsive and accessible.,5,5,2,3
+The faculty is very supportive and approachable.,2,4,3,4
+The college provides an excellent environment for learning.,2,2,5,4
+Extracurricular activities are abundant and engaging.,1,3,1,4
+The library resources are very helpful and comprehensive.,5,3,4,1
+The campus lacks proper cleanliness and maintenance.,1,2,2,4
+The college provides an excellent environment for learning.,3,1,5,2
+Extracurricular activities are abundant and engaging.,2,1,2,4
+The college provides an excellent environment for learning.,2,1,2,4
+The faculty is very supportive and approachable.,4,4,1,1
+Food quality in the hostel/mess could be improved.,4,5,4,4
+Extracurricular activities are abundant and engaging.,1,4,5,5
+Student support services are responsive and accessible.,5,3,4,2
+The faculty is very supportive and approachable.,5,2,5,1
+The library resources are very helpful and comprehensive.,1,3,3,5
+Student support services are responsive and accessible.,2,4,1,5
+Classroom facilities are outdated and need renovation.,5,4,1,3
+Student support services are responsive and accessible.,4,4,4,4
+"Campus safety needs to be prioritized, especially at night.",2,2,5,3
+The faculty is very supportive and approachable.,2,4,1,1
+The library resources are very helpful and comprehensive.,5,5,5,4
+Student support services are responsive and accessible.,1,2,1,5
+Student support services are responsive and accessible.,4,5,2,2
+The faculty is very supportive and approachable.,2,4,3,1
+The college provides an excellent environment for learning.,2,1,1,5
+There are frequent guest lectures and seminars that broaden students' knowledge.,3,2,2,2
+"Library resources are extensive, but it would be beneficial if there were more digital resources available.",1,3,4,1
+"The diversity of the student body is a major positive, exposing everyone to new perspectives.",4,4,5,1
+The student health center is responsive and provides necessary services promptly.,2,2,5,5
+"The college cafeteria offers a wide variety of food options, though prices could be more student-friendly.",1,3,4,3
+"Professors are passionate about their subjects, making lectures engaging and informative.",1,4,1,5
+"The campus shuttle service is convenient, though schedules could be more frequent during peak times.",5,5,2,4
+The mentorship programs connect students well with industry professionals.,3,4,1,4
+"Student clubs are well-organized and inclusive, providing something for everyone.",3,4,3,5
+The student health center is responsive and provides necessary services promptly.,1,2,2,3
+Campus events are vibrant and foster a strong sense of community among students.,3,4,2,4
+"The college cafeteria offers a wide variety of food options, though prices could be more student-friendly.",2,2,4,1
+"The sports facilities are top-notch, though access could be improved for students who aren't on teams.",5,5,2,3
+"Professors are passionate about their subjects, making lectures engaging and informative.",4,4,3,5
+Campus events are vibrant and foster a strong sense of community among students.,4,5,3,5
+There are frequent guest lectures and seminars that broaden students' knowledge.,2,1,4,1
+"The college app is helpful for staying updated on events, though it could be more user-friendly.",4,2,1,5
+"The college app is helpful for staying updated on events, though it could be more user-friendly.",4,4,5,2
+"Parking on campus can be challenging, especially during major events or peak hours.",2,2,1,5
+"The college cafeteria offers a wide variety of food options, though prices could be more student-friendly.",5,5,5,2
+The registration process for classes can be a bit confusing and could be streamlined.,4,3,4,1
+There are frequent guest lectures and seminars that broaden students' knowledge.,1,4,2,5
+"Career services provide good support, though more networking events with alumni would be helpful.",4,4,4,5
+"The diversity of the student body is a major positive, exposing everyone to new perspectives.",5,3,2,4
+"Internship opportunities are well-connected with local industries, helping students gain real experience.",4,2,1,2
+"The college cafeteria offers a wide variety of food options, though prices could be more student-friendly.",2,3,2,3
+"Some courses lack hands-on learning experiences, which could be beneficial for practical skills.",5,1,1,1
+There are frequent guest lectures and seminars that broaden students' knowledge.,4,3,4,2
+"Study spaces are plentiful, though some areas can get crowded during exam periods.",2,1,2,4
+There are frequent guest lectures and seminars that broaden students' knowledge.,2,5,2,2
+The mentorship programs connect students well with industry professionals.,4,3,1,5
+"Study spaces are plentiful, though some areas can get crowded during exam periods.",5,2,3,5
+"The emphasis on research is commendable, offering students ample opportunities to participate.",2,3,5,1
+"Classrooms are equipped with modern technology, enhancing the learning experience.",4,3,5,2
+"The sports facilities are top-notch, though access could be improved for students who aren't on teams.",1,5,3,5
+"Extracurricular opportunities are diverse, helping students build skills beyond academics.",2,3,2,5
+"The sports facilities are top-notch, though access could be improved for students who aren't on teams.",1,4,2,4
+"Classrooms are equipped with modern technology, enhancing the learning experience.",1,5,4,4
+"Library resources are extensive, but it would be beneficial if there were more digital resources available.",2,4,1,4
+"Some courses lack hands-on learning experiences, which could be beneficial for practical skills.",1,1,4,1
+The dormitories are comfortable but could use more frequent maintenance.,1,2,1,4
+"The emphasis on research is commendable, offering students ample opportunities to participate.",5,3,3,2
+"The campus shuttle service is convenient, though schedules could be more frequent during peak times.",5,2,4,5
+"Student clubs are well-organized and inclusive, providing something for everyone.",2,2,3,5
+"Some courses lack hands-on learning experiences, which could be beneficial for practical skills.",4,2,5,3
+"The campus is beautifully maintained, offering a serene environment that's perfect for studying.",5,2,3,1
+"Extracurricular opportunities are diverse, helping students build skills beyond academics.",5,1,2,1
+"Classrooms are equipped with modern technology, enhancing the learning experience.",1,5,3,5
+"The WiFi on campus is generally reliable, though it can be slow during peak hours.",2,3,1,5
+"The academic workload can be intense, but it pushes students to perform their best.",3,1,5,1
+"The academic workload can be intense, but it pushes students to perform their best.",4,5,4,4
+The mentorship programs connect students well with industry professionals.,2,2,2,2
+"Student counseling services are accessible, providing crucial support during stressful times.",5,2,2,2
+"Faculty members are knowledgeable, but sometimes difficult to approach outside of class hours.",1,5,5,5
+"Some courses lack hands-on learning experiences, which could be beneficial for practical skills.",1,3,2,3
+"The campus shuttle service is convenient, though schedules could be more frequent during peak times.",5,3,3,2
+"Student counseling services are accessible, providing crucial support during stressful times.",2,5,1,3
+"Study spaces are plentiful, though some areas can get crowded during exam periods.",2,1,3,2
+"The sports facilities are top-notch, though access could be improved for students who aren't on teams.",5,1,2,2
+"The emphasis on research is commendable, offering students ample opportunities to participate.",5,4,3,4
+"The housing application process is straightforward, but on-campus housing is limited.",1,3,5,5
+"The college cafeteria offers a wide variety of food options, though prices could be more student-friendly.",5,1,4,5
+The mentorship programs connect students well with industry professionals.,4,5,4,2
+Campus events are vibrant and foster a strong sense of community among students.,3,1,1,1
+The dormitories are comfortable but could use more frequent maintenance.,1,3,2,3
+"Parking on campus can be challenging, especially during major events or peak hours.",3,3,1,2
+The mentorship programs connect students well with industry professionals.,3,4,4,4
+"Career services provide good support, though more networking events with alumni would be helpful.",5,4,3,5
+"Extracurricular opportunities are diverse, helping students build skills beyond academics.",3,1,4,3
+"The diversity of the student body is a major positive, exposing everyone to new perspectives.",1,3,2,2
+The mentorship programs connect students well with industry professionals.,5,4,4,5
+"The overall environment is supportive, with staff and faculty always willing to assist students.",4,1,2,5
+The student health center is responsive and provides necessary services promptly.,3,4,4,1
+"Lab facilities are state-of-the-art, though access outside of scheduled lab hours could be expanded.",1,2,1,2
+"The college app is helpful for staying updated on events, though it could be more user-friendly.",2,3,1,3
+"The academic workload can be intense, but it pushes students to perform their best.",2,2,1,4
+"The campus shuttle service is convenient, though schedules could be more frequent during peak times.",2,1,4,4
+"Faculty members are knowledgeable, but sometimes difficult to approach outside of class hours.",5,4,2,5
+"The WiFi on campus is generally reliable, though it can be slow during peak hours.",5,3,2,5
+"The sports facilities are top-notch, though access could be improved for students who aren't on teams.",2,3,1,5
+The dormitories are comfortable but could use more frequent maintenance.,3,1,4,1
+"Internship opportunities are well-connected with local industries, helping students gain real experience.",4,4,1,3
+"The sports facilities are top-notch, though access could be improved for students who aren't on teams.",5,2,1,1
+There are frequent guest lectures and seminars that broaden students' knowledge.,1,3,4,2
+"Student counseling services are accessible, providing crucial support during stressful times.",3,5,3,2
+Campus events are vibrant and foster a strong sense of community among students.,3,4,5,1
+"The academic workload can be intense, but it pushes students to perform their best.",1,3,2,4
+The student health center is responsive and provides necessary services promptly.,1,4,4,1
+"The housing application process is straightforward, but on-campus housing is limited.",3,3,1,2
+Campus events are vibrant and foster a strong sense of community among students.,1,3,5,1
+"Parking on campus can be challenging, especially during major events or peak hours.",1,4,1,3
+"The sports facilities are top-notch, though access could be improved for students who aren't on teams.",3,4,3,5
+"Parking on campus can be challenging, especially during major events or peak hours.",1,1,3,1
+The academic curriculum is well-structured and prepares students effectively for real-world challenges.,3,4,2,4
+The academic curriculum is well-structured and prepares students effectively for real-world challenges.,4,2,3,3
+"Some courses lack hands-on learning experiences, which could be beneficial for practical skills.",2,4,1,2
+"The WiFi on campus is generally reliable, though it can be slow during peak hours.",4,5,4,3
+"The sports facilities are top-notch, though access could be improved for students who aren't on teams.",5,5,2,3
+"Parking on campus can be challenging, especially during major events or peak hours.",2,4,3,4
+"Faculty members are knowledgeable, but sometimes difficult to approach outside of class hours.",2,2,5,4
+"Study spaces are plentiful, though some areas can get crowded during exam periods.",1,3,1,4
+"Classrooms are equipped with modern technology, enhancing the learning experience.",5,3,4,1
+There are frequent guest lectures and seminars that broaden students' knowledge.,1,2,2,4
+"The WiFi on campus is generally reliable, though it can be slow during peak hours.",3,1,5,2
+Campus events are vibrant and foster a strong sense of community among students.,2,1,2,4
+The dormitories are comfortable but could use more frequent maintenance.,2,1,2,4
+"Parking on campus can be challenging, especially during major events or peak hours.",4,4,1,1
+"Study spaces are plentiful, though some areas can get crowded during exam periods.",4,5,4,4
+"Extracurricular opportunities are diverse, helping students build skills beyond academics.",1,4,5,5
+"The academic workload can be intense, but it pushes students to perform their best.",5,3,4,2
+"The academic workload can be intense, but it pushes students to perform their best.",5,2,5,1
+"Professors are passionate about their subjects, making lectures engaging and informative.",1,3,3,5
+"The sports facilities are top-notch, though access could be improved for students who aren't on teams.",2,4,1,5
+"The college cafeteria offers a wide variety of food options, though prices could be more student-friendly.",5,4,1,3
+"Classrooms are equipped with modern technology, enhancing the learning experience.",4,4,4,4
+"Student clubs are well-organized and inclusive, providing something for everyone.",2,2,5,3
+"The overall environment is supportive, with staff and faculty always willing to assist students.",2,4,1,1
+"Internship opportunities are well-connected with local industries, helping students gain real experience.",5,5,5,4
+"Parking on campus can be challenging, especially during major events or peak hours.",1,2,1,5
+"The campus is beautifully maintained, offering a serene environment that's perfect for studying.",4,5,2,2
+"Student counseling services are accessible, providing crucial support during stressful times.",2,4,3,1
+Campus events are vibrant and foster a strong sense of community among students.,2,1,1,5
+Campus events are vibrant and foster a strong sense of community among students.,3,2,2,2
+"Faculty members are knowledgeable, but sometimes difficult to approach outside of class hours.",1,3,4,1
+The student health center is responsive and provides necessary services promptly.,4,4,5,1
+"Library resources are extensive, but it would be beneficial if there were more digital resources available.",2,2,5,5
+"Career services provide good support, though more networking events with alumni would be helpful.",1,3,4,3
+"Student clubs are well-organized and inclusive, providing something for everyone.",1,4,1,5
+"Library resources are extensive, but it would be beneficial if there were more digital resources available.",5,5,2,4
+There are frequent guest lectures and seminars that broaden students' knowledge.,3,4,1,4
+The student health center is responsive and provides necessary services promptly.,3,4,3,5
+"The campus is beautifully maintained, offering a serene environment that's perfect for studying.",1,2,2,3
+"The WiFi on campus is generally reliable, though it can be slow during peak hours.",3,4,2,4
+"The diversity of the student body is a major positive, exposing everyone to new perspectives.",2,2,4,1
+"Faculty members are knowledgeable, but sometimes difficult to approach outside of class hours.",5,5,2,3
+"Student clubs are well-organized and inclusive, providing something for everyone.",4,4,3,5
+"Faculty members are knowledgeable, but sometimes difficult to approach outside of class hours.",4,5,3,5
+"The WiFi on campus is generally reliable, though it can be slow during peak hours.",2,1,4,1
+"The campus shuttle service is convenient, though schedules could be more frequent during peak times.",4,2,1,5
+Campus events are vibrant and foster a strong sense of community among students.,4,4,5,2
+"Parking on campus can be challenging, especially during major events or peak hours.",2,2,1,5
+"The academic workload can be intense, but it pushes students to perform their best.",5,5,5,2
+The registration process for classes can be a bit confusing and could be streamlined.,4,3,4,1
+"The WiFi on campus is generally reliable, though it can be slow during peak hours.",1,4,2,5
+The student health center is responsive and provides necessary services promptly.,4,4,4,5
+The registration process for classes can be a bit confusing and could be streamlined.,5,3,2,4
+"The housing application process is straightforward, but on-campus housing is limited.",4,2,1,2
+"The overall environment is supportive, with staff and faculty always willing to assist students.",2,3,2,3
+"Internship opportunities are well-connected with local industries, helping students gain real experience.",5,1,1,1
+Campus events are vibrant and foster a strong sense of community among students.,4,3,4,2
