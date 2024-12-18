@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Feedback Charts</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f9;
+            margin: 0;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        .chart-container {
+            margin: 20px auto;
+            width: 80%;
+            max-width: 600px;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Feedback about College Life</h1>
+
+    <div class="chart-container">
+        <h2>Feedback about different aspects of college life</h2>
+        <canvas id="pieChart"></canvas>
+    </div>
+
+    <div class="chart-container">
+        <h2>How satisfied are you with the cleanliness and maintenance of the hostel rooms? </h2>
+        <canvas id="barChartB"></canvas>
+    </div>
+
+    <div class="chart-container">
+        <h2>How would you rate the knowledge and teaching methods of the faculty members. </h2>
+        <canvas id="barChartC"></canvas>
+    </div>
+
+    <div class="chart-container">
+        <h2>How satisfied are you with the availability and accessibility of library resources? </h2>
+        <canvas id="barChartD"></canvas>
+    </div>
+
+    <div class="chart-container">
+        <h2>How safe do you feel on campus, especially during the evening or night hours? </h2>
+        <canvas id="barChartE"></canvas>
+    </div>
+
+    <!-- Chart.js Library -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
